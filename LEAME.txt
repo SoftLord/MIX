@@ -1,0 +1,27 @@
+Mix es un programa hecho y diseñado para realizar calculso de matematicas
+y aritmetica basica de una manera rapida y eficaz de forma que no sea necesario
+el calculo hecho por la persona. En esta version se encarga principalmente de
+calcular numeros primos, numeros de la sucesion de fibonacci, de factorizar numeros
+en sus respectivos numeros primos y de representar de manera grafica algunos elementos
+tales como los senos, cosenos y tangentes.
+
+Para ejecutar la aplicación haga doble clic en el arcivo que pone MIX.exe
+
+Mixed Soft™, Inc.
+
+RELEASE NOTES:
+En esta versión se han mejorado algunos aspectos tales como el funcionamiento y
+la optimización del programa.
+Ahora los usuarios son encriptados de manera que sea mas dificil el acceso a personas
+no deseadas ni el robo de información.
+
+Mix se ha renovado ofreciendo nuevos iconos para darle una mejor y más
+moderna apariencia al programa.
+
+Se han corregido algunos fallos y mejora de rendimiento.
+
+PD: Las claves de acceso por defecto son:
+user: admin
+password: 123
+
+Copyright © 2018-2019
